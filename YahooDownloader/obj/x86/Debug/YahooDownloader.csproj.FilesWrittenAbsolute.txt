@@ -1,0 +1,5 @@
+/home/cs/Documents/code/YahooDownloader/YahooDownloader/YahooDownloader/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/cs/Documents/code/YahooDownloader/YahooDownloader/YahooDownloader/bin/Debug/YahooDownloader.exe.mdb
+/home/cs/Documents/code/YahooDownloader/YahooDownloader/YahooDownloader/bin/Debug/YahooDownloader.exe
+/home/cs/Documents/code/YahooDownloader/YahooDownloader/YahooDownloader/obj/x86/Debug/YahooDownloader.exe
+/home/cs/Documents/code/YahooDownloader/YahooDownloader/YahooDownloader/obj/x86/Debug/YahooDownloader.exe.mdb
