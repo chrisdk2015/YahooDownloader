@@ -1,2 +1,2 @@
 # YahooDownloader
-Downloads Yahoo in Quantconnect LEAN format
+Downloads Yahoo finance data in Quantconnect LEAN format
